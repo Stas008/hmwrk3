@@ -1,7 +1,3 @@
-
-from numpy import array
-
-
 k = int(input("введите значение k : ")) 
 array=[]
 array.append(0)
